@@ -54,3 +54,13 @@ Destroy your Terraform Environment
 ```bash
 terraform destroy
 ```
+
+# Project Day 1-2:
+<div align="center">
+  <img src=https://github.com/vanzei/TerraformPipProject/blob/main/static/Day2.png/>
+</div>
+
+# Project Day 3:
+<div align="center">
+  <img src=https://github.com/vanzei/TerraformPipProject/blob/main/static/day3.png/>
+</div>
