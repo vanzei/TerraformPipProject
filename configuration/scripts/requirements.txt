@@ -1,0 +1,11 @@
+ipython
+matplotlib
+mysql_connector_repackaged
+pandas
+plotly
+python-dotenv
+requests
+sqlalchemy
+kaleido
+mysql-connector-python
+pymysql
