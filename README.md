@@ -55,6 +55,16 @@ Destroy your Terraform Environment
 terraform destroy
 ```
 
+.env file
+```
+API_key
+db_user
+db_password
+db_host
+db_port
+db_name
+```
+
 # Project Day 1-2:
 <div align="center">
   <img src=https://github.com/vanzei/TerraformPipProject/blob/main/static/Day2.png/>
